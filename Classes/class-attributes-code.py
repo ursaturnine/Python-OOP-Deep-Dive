@@ -1,7 +1,7 @@
 
 class Person:
     pass
-
+    
 class Program:
     language = 'Python'
     version = '3.8'
